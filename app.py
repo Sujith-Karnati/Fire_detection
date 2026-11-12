@@ -102,7 +102,7 @@ image_confidence = st.sidebar.slider(
     "Image confidence threshold",
     min_value=0.05,
     max_value=0.95,
-    value=0.60,
+    value=0.40,
     step=0.05,
     help="Your Colab notebook uses conf=0.60 for image prediction.",
 )
