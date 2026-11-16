@@ -1,7 +1,5 @@
 streamlit
 ultralytics
 opencv-python-headless
-numpy
+numpy<2
 pillow
-torch
-torchvision
