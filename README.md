@@ -59,8 +59,7 @@ FireGuard-AI/
 ├── best.pt                 # Trained YOLO11s model
 ├── requirements.txt        # Project dependencies
 ├── README.md               # Project documentation
-│
-└── assets/                 # Screenshots (optional)
+
 ```
 
 ## ⚙️ Installation and Setup
